@@ -23,7 +23,7 @@ A Python-based tool that converts PDF documents into high-quality audiobooks usi
 
 1. Clone the repository:
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/usufcom/Text_speech
 cd Text-speech
 ```
 
@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 3. Set up your OpenAI API key:
    - Create a `.env` file in the project root
-   - Add your OpenAI API key: `OPENAI_API_KEY=your_api_key_here`
+   - Add your OpenAI API key inside the `.env` file: `OPENAI_API_KEY=your_api_key_here`
 
 ## Usage
 
