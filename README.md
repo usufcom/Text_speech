@@ -101,5 +101,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 This tool uses OpenAI's API and may incur costs based on your usage. Please review OpenAI's pricing and terms of service before use.
 
 ## Support
+If you have any questions or need help, please reach out:
+
+Website: www.djamai.com
+Email: usufcom20@gmail.com
+LinkedIn: @usufcom
 
 For issues and questions, please open an issue on the GitHub repository.
