@@ -103,8 +103,8 @@ This tool uses OpenAI's API and may incur costs based on your usage. Please revi
 ## Support
 If you have any questions or need help, please reach out:
 
-Website: www.djamai.com
-Email: usufcom20@gmail.com
-LinkedIn: @usufcom
+- **Website**: [www.djamai.com](https://www.djamai.com)
+- **Email**: usufcom20@gmail.com
+- **LinkedIn**: [@usufcom](https://www.linkedin.com/in/usufcom)
 
 For issues and questions, please open an issue on the GitHub repository.
